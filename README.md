@@ -15,4 +15,6 @@ Installation
 Other
 ----
 
+NppLoader is licensed under the Simplified BSD License. A copy can be found in LICENSE.
+
 For Notepad++, visit [here](http://notepad-plus-plus.org/).
